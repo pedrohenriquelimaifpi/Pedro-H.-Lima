@@ -20,7 +20,8 @@ no valor declarado menos 1
 *A média aritmética dos valores
 
 6 Leia 8 números inteiros para dentro do vetor e determine:
---
+*O qual o maior e sua posição;
+*O qual o menor e sua posição.
 
 7 Crie um vetor com 10 números digitados pelo usuário.Depois peça um número X e informe:
 *Se x está no vetor
@@ -28,6 +29,6 @@ no valor declarado menos 1
 
 
 8 Crie um vetor de 6 nomes(strings). O programa deve:
-*ler os nomes
-*perguntar um nome e ser buscado
-*informar se ele existe no vetor
+*Ler os nomes
+*Perguntar um nome e ser buscado
+*Informar se ele existe no vetor
