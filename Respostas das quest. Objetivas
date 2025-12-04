@@ -1,0 +1,10 @@
+1 oque é um vetor em C++?
+--É um armário, que o usuário define previamente a quantidade de gavetas que seram utilizadas.
+
+2 Qual a diferença entre declarar um vetor com valor fixo e inicializá-lo com valores específicos?
+-- Declara um vertor é fazer uma reserva de espaço na memória e inicializar com valores especificos atribuição de dados para o espaço na memória
+
+3 Explique o que significa índice e qual o intervalo válido para um vetor int notas[10].
+-- O índice é o indetificador da posição em que o dado está localizado dentro vetor e o intervalo válido de um vetor é inicicado apartir do 0 e encerra 
+no valor declarado menos 1
+(Ex: notas[10] =  0 à 9)
